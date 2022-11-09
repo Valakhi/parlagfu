@@ -1,0 +1,32 @@
+body{
+    background-color: #9CEE59;
+    color: black;
+}
+
+a, a:visited, a:hover, a:active{
+    color: #999999;
+}
+
+#containerkülső{
+    width: 980px;
+    background-color: #509050;
+    margin: 0px;
+    border-spacing: 0px;
+}
+#containerbelső{
+    width: 940px;
+    background-color: white;
+    margin: 0px;
+    border-spacing: 1px;
+}
+
+.cellák{
+    height: 40px;
+    background-color: black;
+    color: white;
+}
+#img{
+    float: right;
+    margin-left: 5px;
+    margin-right: 5px;
+}
